@@ -1,4 +1,4 @@
 cornerstone
 ===========
 
-a platform for our project
+A platform for our project.
